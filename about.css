@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+.carousel-item .carousel-caption h4
+{
+	color:darkblue;
+}
+.carousel-item.active .carousel-caption h3
+{
+	color:maroon;
+	background: rgba(204,150,220,1.00);
+}
+
+
+body center h1 
+{
+	color:darkgreen
+}
+body center p
+{
+	width: 800px;
+}
